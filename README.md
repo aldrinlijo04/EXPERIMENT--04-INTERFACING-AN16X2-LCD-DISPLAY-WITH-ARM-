@@ -405,7 +405,7 @@ Aldrin lijo J E
 
 ## Output screen shots of proteus  :
 
- 
+ ![Uploading image.png…]()
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
