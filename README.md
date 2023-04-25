@@ -405,8 +405,8 @@ Aldrin lijo J E
 
 ## Output screen shots of proteus  :
 
- ![Uploading image.png…]()
- 
+![aldrin](https://user-images.githubusercontent.com/118544279/234248350-ef34e9db-66b5-4cd8-8318-1a2acde0dee9.jpg)
+
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
  [lcd.pdf](https://github.com/aldrinlijo04/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/files/11321200/lcd.pdf)
